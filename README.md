@@ -1,7 +1,7 @@
 # Cryptarithmetic-Solver
 
 A Cryptaritmetic Solver for numerical base of 6 or 10 using Backtracking search. The algorithm woks only for addition of the two strings. In main() there are already three examples of strings that solved by running the program.
-The 3 examples are:\ 
+The 3 examples are: <br/>
 I. TO + TO = FOR , numerical base = 6
 II. TOO + TOO = FOR , numerical base = 6 
 III. WON + WON = TOO , nuerical base = 10
