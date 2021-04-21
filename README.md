@@ -4,7 +4,7 @@ A Cryptaritmetic Solver for numerical base of 6 or 10 using Backtracking search.
 The 3 examples are: <br/>
 I. TO + TO = FOR , numerical base = 6 <br/>
 II. TOO + TOO = FOR , numerical base = 6 <br/>
-III. WON + WON = TOO , nuerical base = 10 <br/>
+III. WON + WON = TOO , numerical base = 10 <br/>
 
 <br/>
 
